@@ -1,1 +1,2 @@
-# Projects
+use of random number generator
+In this Tic-Tac-Toe game, players engage with a simulated computer opponent. However, rather than relying on traditional AI, the game employs a sophisticated random number generation algorithm to determine the computer’s moves. This innovative approach ensures a dynamic and unpredictable gameplay experience, closely mimicking the strategic variability of a human opponent.
